@@ -1,16 +1,15 @@
 ## 1-hello-world.js  - checking the environment
 
-This "hello world" example teaches how to get started by finding a node.  Nodes run the IOTA Reference Implementation (IRI) software.  They contain one view of a distributed ledger.
+This "hello world" example teaches how to get started by finding a node.  Nodes run the [IOTA Reference Implementation (IRI)](#) software.  They contain one view of a distributed ledger.
 
-![]()
+![Graphic of a distributed ledger](#)
 
 Transactions stored in IRI on an IOTA Node
 
 
-
 ###  Step-by-step explanation of 1-hello-world.js
 
-First, import the core library.
+Import the core library
 
 ```
 ///////////////////////////////
@@ -20,7 +19,7 @@ First, import the core library.
 const iotaLibrary = require('@iota/core')
 ```
 
-Select a node.  The developer's network, DevNet, is used for this example.
+Use DevNet, the developers network
 
 ```
 const iota = iotaLibrary.composeAPI({
@@ -68,9 +67,10 @@ In this example, the node name and version are shown.  Next, a list of milestone
 
 There are 8 neighbors in this network.
 
-
+```
 What does a node contain?
 
 (a) Iota Tokens
 (b) One view of the distributed ledger
 (c) Neighbors
+```
