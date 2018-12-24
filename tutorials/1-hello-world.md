@@ -63,9 +63,9 @@ RESULTS
   duration: 0 }
 ```
 
-In this example, the node name and version are shown.  Next, a list of milestones appears.  In the beginning, milestones were issued periodically by the Coordinator software.  These milestones were used to achieve consensus.  Starting in December 2018, IOTA is moving to an improved method for achieving consensus that is more decentralized.  
+In this example, the node name and version are shown.  There are 8 neighbors in this network.
 
-There are 8 neighbors in this network.
+There is a list of milestones.  Originally, milestones were issued periodically by the Coordinator software.  These milestones were used to achieve consensus.  Starting in December 2018, IOTA began moving towards an improved method for achieving consensus that is more decentralized.  At some point, milestones will no longer be used.  
 
 ```
 What does a node contain?
