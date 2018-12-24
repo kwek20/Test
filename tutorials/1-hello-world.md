@@ -1,4 +1,4 @@
-## 1-hello-world.js  - Checking the Environment
+## 1-hello-world.js  - checking the environment
 
 This "hello world" example teaches how to get started by finding a node.  Nodes run the IOTA Reference Implementation (IRI) software.  They contain one view of a distributed ledger.
 
