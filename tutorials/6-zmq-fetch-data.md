@@ -5,7 +5,7 @@ This tutorial shows how to use a tool called ZMQ to listen for transactions.  Yo
 
 ## Step-by-step explanation of 6-zmq-listen.js
 
-Import zeromq and call is "zmq".  Open the DevNet ZMQ port, 5556.
+Import zeromq as "zmq".  Open the DevNet ZMQ port, 5556.
 
 ```
 
