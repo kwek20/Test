@@ -30,17 +30,18 @@ const iota = iotaLibrary.composeAPI({
 
 Get node information and display statistics in the console
 
-
+```
 iota
   .getNodeInfo()
   .then(response => console.log(response))
   .catch(err => {
     console.error(err)
   })
-
+```
 
 RESULTS
 
+```
 { appName: 'IRI Devnet',
   appVersion: '1.5.5',
   jreAvailableProcessors: 8,
@@ -61,6 +62,7 @@ RESULTS
   features: [ 'RemotePOW', 'testnet' ],
   coordinatorAddress: null,
   duration: 0 }
+```
 
 In this example, the node name and version are shown.  Next, a list of milestones appears.  In the beginning, milestones were issued periodically by the Coordinator software.  These milestones were used to achieve consensus.  Starting in December 2018, IOTA is moving to an improved method for achieving consensus that is more decentralized.  
 
