@@ -2,7 +2,7 @@
 
 This "hello world" example teaches how to get started by finding a node.  Nodes run the [IOTA Reference Implementation (IRI)](#) software.  They contain one view of a distributed ledger.
 
-![Graphic of a distributed ledger](#)
+![Graphic of a distributed ledger](dl.png)
 
 Transactions stored in IRI on an IOTA Node
 
