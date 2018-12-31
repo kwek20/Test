@@ -1,12 +1,12 @@
 ## Self-check answers
 
 
-1-hello-world.js
-
-What does a node contain?
+From [1-hello-world](1-hello-world.md):  What does a node contain?
 
 (a) Iota Tokens
+
 (b) One view of the distributed ledger
+
 (c) Neighbors
 
 ```
