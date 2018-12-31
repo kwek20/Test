@@ -16,9 +16,9 @@
 	(Documentation website)
 
 #### Meet Your Instructors (alphabetical order)
-		Jake
-		Lewis
-		Nelson
+	Jake
+	Lewis
+	Nelson
 
 #### Course Support
 	(discord, reddit, slack)
@@ -27,15 +27,11 @@
 
 ### Introduction
 
-The IOTA Foundation
-	Mission
-	Board
-	How to contribute
+[The IOTA Foundation](https://www.iota.org/)
 
-The IOTA Foundation Events
-	Calendar TBD
+[IOTA Foundation News](https://blog.iota.org/)
 
-The IOTA Foundation Training Courses
+Foundation Training Courses
 
         IOTA Fundamentals
         Designed to teach the basics of sending transactions, running a node, and using hub
@@ -50,26 +46,27 @@ The IOTA Foundation Training Courses
         Designed to invite students into the IOTA research community
 	
 
-The IOTA Foundation Certifications
-        IOTA Administrators Certification
-	      IOTA Developers Certification
+IOTA Foundation Certifications
+
+	IOTA Administrators Certification
+      	IOTA Developers Certification
 
 ## Workshop 1:  Using Trinity
 
-Installing Trinity
+	Installing Trinity
 
-Safeguarding your seed
+	Safeguarding your seed
 
-Learning Trinity features
+	Learning Trinity features
 
-Sending Transactions
+	Sending Transactions
 
-Preparing for IOTA certifications
-	Study questions with answers
+	Preparing for IOTA certifications
+		Study questions with answers
 
 ## Workshop 2:  Introduction to IOTA Transactions
 
-### Getting started
+#### Getting started
 
 [Hello IOTA World!](tutorials/1-hello-world.md)
 
@@ -77,7 +74,7 @@ Preparing for IOTA certifications
 
 [Fetch transaction](tutorials/2.2-fetch-hello.md)
 
-## Transacting with iota tokens
+#### Transacting with iota tokens
 
 [Create an address](tutorials/3.1-create-address.md)
 
@@ -85,7 +82,7 @@ Preparing for IOTA certifications
 
 [Send iota tokens](tutorials/4.send-tokens.md)
 
-## Sending and receiving data
+#### Sending and receiving data
 
 [Send data](tutorials/5.1-send-data.md)
 
@@ -93,7 +90,7 @@ Preparing for IOTA certifications
 
 [ZMQ](tutorials/6-zmq-fetch-data.md)
 
-## Broadcasting public messages
+#### Broadcasting public messages
 
 [Send public MAM message](tutorials/7.1-mam-public-send.md)
 
@@ -101,17 +98,17 @@ Preparing for IOTA certifications
 
 [Watch public MAM stream](tutorials/7.5-mam-public-watch.md)
 
-## Broadcasting private messages
+#### Broadcasting private messages
 
 [Send private MAM message](tutorials/7.3-mam-private-send.md)
 
 [Fetch private MAM message](tutorials/7.4-mam-private-fetch.md)
 
-## Developing a simple app
+#### Developing a simple app
 
 [Where's my Porsche?](https://github.com/NelsonPython/MAM/blob/master/knowledgebase/HM.md)
 
-## Preparing for IOTA certifications
+#### Preparing for IOTA certifications
 
 [Study questions with answers](Quiz.md)
 
