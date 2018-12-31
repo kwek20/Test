@@ -2,7 +2,7 @@
 
 This "hello world" example teaches how to get started by finding an IOTA Node.  An IOTA Node contains one view of IOTA's distributed ledger, called the Tangle.
 
-![Graphic of a distributed ledger](images/dl.png)
+![Graphic of a distributed ledger](images/DL.png)
 
 Transactions stored in IRI on an IOTA Node
 
