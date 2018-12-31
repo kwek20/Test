@@ -46,4 +46,4 @@ This workshop teaches how to send and fetch various types of transactions stored
 
 ## Preparing for IOTA certifications
 
-[Answers to quizzes](Quiz.md)
+[Study questions with answers](Quiz.md)
