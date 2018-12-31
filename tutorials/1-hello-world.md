@@ -65,6 +65,7 @@ In this example, the node name and version are shown.  There are 8 neighbors in 
 
 There is a list of milestones.  Originally, milestones were issued periodically by the Coordinator software.  These milestones were used to achieve consensus.  Starting in December 2018, IOTA began moving towards an improved method for achieving consensus that is more decentralized.  At some point, milestones will no longer be used.  
 
+#### Self check
 ```
 What does a node contain?
 
@@ -72,3 +73,4 @@ What does a node contain?
 (b) One view of the distributed ledger called, the Tangle
 (c) Neighbors
 ```
+[Answer](Quiz.md)
