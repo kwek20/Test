@@ -126,6 +126,7 @@ IOTA Foundation Certifications
 
 
 Preparing for IOTA certifications
+	
 	Study questions with answers
 
 ## Workshop 4:  Running Hub
@@ -133,4 +134,5 @@ Preparing for IOTA certifications
 	TBD
 
 Preparing for IOTA certifications
+	
 	Study questions with answers
