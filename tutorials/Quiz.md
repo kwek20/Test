@@ -163,7 +163,8 @@ c) 1
 ```
 Answer:  c) 1
 
-Only use a deposit address once.  Otherwise, you make it easier for someone to decipher your secret key and steal your iota tokens
+Only use a deposit address once.  Otherwise, you make it easier for someone to 
+decipher your secret key and steal your iota tokens
 ```
 
 ### Additional Study Questions
