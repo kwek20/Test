@@ -56,7 +56,8 @@ IOTA Foundation Training Courses
 IOTA Foundation Certifications
 
 	IOTA Administrators Certification (start studying now for exam in June 2019)
-      	IOTA Developers Certification (start studying now for exam in June 2019)
+      	
+	IOTA Developers Certification (start studying now for exam in June 2019)
 
 ## Workshop 1:  Using Trinity
 
