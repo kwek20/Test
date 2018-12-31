@@ -10,7 +10,7 @@ This workshop teaches how to send and fetch various types of transactions stored
 
 [Fetch transaction](2.2-fetch-hello.md)
 
-## Transacting with iota tokens
+### Transacting with iota tokens
 
 [Create an address](3.1-create-address.md)
 
@@ -18,7 +18,7 @@ This workshop teaches how to send and fetch various types of transactions stored
 
 [Send iota tokens](4.send-tokens.md)
 
-## Sending and receiving data
+### Sending and receiving data
 
 [Send data](5.1-send-data.md)
 
@@ -26,7 +26,7 @@ This workshop teaches how to send and fetch various types of transactions stored
 
 [ZMQ](6-zmq-fetch-data.md)
 
-## Broadcasting public messages
+### Broadcasting public messages
 
 [Send public MAM message](7.1-mam-public-send.md)
 
@@ -34,16 +34,16 @@ This workshop teaches how to send and fetch various types of transactions stored
 
 [Watch public MAM stream](7.5-mam-public-watch.md)
 
-## Broadcasting private messages
+### Broadcasting private messages
 
 [Send private MAM message](7.3-mam-private-send.md)
 
 [Fetch private MAM message](7.4-mam-private-fetch.md)
 
-## Developing a simple app
+### Developing a simple app
 
 [Where's my Porsche?](HM.md) - collect navigation data from a Porsche emulator and send it in a secure MAM message to the Tangle
 
-## Checking your understanding
+### Checking your understanding
 
 [Study questions with answers](Quiz.md)
