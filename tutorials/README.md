@@ -42,7 +42,7 @@ This workshop teaches how to send and fetch various types of transactions stored
 
 ## Developing a simple app
 
-[Where's my Porsche?](https://github.com/NelsonPython/MAM/blob/master/knowledgebase/HM.md) - collect navigation data from a Porsche emulator and send it in a secure MAM message to the Tangle
+[Where's my Porsche?](HM.md) - collect navigation data from a Porsche emulator and send it in a secure MAM message to the Tangle
 
 ## Checking your understanding
 
