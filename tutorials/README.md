@@ -44,6 +44,6 @@ This workshop teaches how to send and fetch various types of transactions stored
 
 [Where's my Porsche?](https://github.com/NelsonPython/MAM/blob/master/knowledgebase/HM.md) - collect navigation data from a Porsche emulator and send it in a secure MAM message to the Tangle
 
-## Preparing for IOTA certifications
+## Checking your understanding
 
 [Study questions with answers](Quiz.md)
