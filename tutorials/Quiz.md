@@ -1,7 +1,7 @@
 ## Self-check answers
 
 
-From [1-hello-world](1-hello-world.md):  What does a node contain?
+From [1-hello-world](1-hello-world.md) what does a node contain?
 
 (a) Iota Tokens
 
