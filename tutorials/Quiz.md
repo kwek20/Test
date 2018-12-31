@@ -1,7 +1,7 @@
 ## Study questions with answers
 
 
-From [1-hello-world](1-hello-world.md), what does a node contain?
+1. From [1-hello-world](1-hello-world.md), what does a node contain?
 
 (a) Iota Tokens
 
@@ -13,7 +13,7 @@ From [1-hello-world](1-hello-world.md), what does a node contain?
 Answer:  (b) one view of the distributed ledger
 ```
 
-From [2.1-send-hello](2.1-send-hello), which of these is a valid tryte string?
+2. From [2.1-send-hello](2.1-send-hello), which of these is a valid tryte string?
   
   (a)	123456789
   
@@ -31,7 +31,7 @@ The tryte alphabet is: 9ABCDEFGHIJKLMNOPQRSTUVWXYZ
 This is also written as: 9A-Z
 ```
 
-From [2.1-send-hello](2.1-send-hello.md), which is a valid seed, assuming each is 81 trytes:
+3. From [2.1-send-hello](2.1-send-hello.md), which is a valid seed, assuming each is 81 trytes:
 
  (a)SENDER ONE 9999999999999999999999999999999999999999999999999999999999999999999999
  
@@ -49,7 +49,7 @@ b)SENDERSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
 Spaces, numbers, and lowercase letters are not part of the tryte alphabet
 ```
 
-From [4.send-tokens](4.send-tokens.md)
+4. From [4.send-tokens](4.send-tokens.md)
 
 ```
 SEEDSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS Total Balance 46i (iota)
@@ -78,7 +78,7 @@ Answer: (e) All the above
 In this example, each address is a deposit address because each address contains iota tokens
 ```
 
-From [4.send-tokens](4.send-tokens.md), how many transactions must be approved before a bundle is confirmed?
+5. From [4.send-tokens](4.send-tokens.md), how many transactions must be approved before a bundle is confirmed?
 
 a)	1
 
@@ -94,7 +94,7 @@ Answer: d)	100%
 Bundles are atomic meaning 100% of the transactions must be confirmed in order for the bundle to be processed
 ```
 
-From [4.send-tokens](4.send-tokens.md), the _______ uses their ______ to send funds?
+6. From [4.send-tokens](4.send-tokens.md), the _______ uses their ______ to send funds?
  
  (a) Sender, seed
  
@@ -110,7 +110,7 @@ Answer:  (a) Sender, seed
 The sender uses their seed to send funds
 ```
 
-From [4.send-tokens](4.send-tokens.md), the _______ uses their ______ to receive funds?
+7. From [4.send-tokens](4.send-tokens.md), the _______ uses their ______ to receive funds?
  
  (a) Sender, seed
  
@@ -126,7 +126,7 @@ Answer: (d) Recipient, address
 The recipient uses their address to receive funds
 ```
 
-From [4.send-tokens](4.send-tokens.md), funds are stored in the
+8. From [4.send-tokens](4.send-tokens.md), funds are stored in the
 
 (a) seed
 
@@ -138,7 +138,7 @@ Answer: (b) address
 Funds are stored in addresses
 ```
 
-From [4.send-tokens](4.send-tokens.md), what should you always keep secret? 
+9. From [4.send-tokens](4.send-tokens.md), what should you always keep secret? 
 
 a) seed 
 
@@ -152,7 +152,7 @@ Answer:  a) seed
 >Never share your seed
 ```
 
-From [4.send-tokens](4.send-tokens.md), how many times should you use a deposit address? 
+10. From [4.send-tokens](4.send-tokens.md), how many times should you use a deposit address? 
 
 a) never 
 
@@ -169,7 +169,7 @@ decipher your secret key and steal your iota tokens
 
 ### Additional Study Questions
 
-Which of the following can appear as 81-trytes or 90 characters? 
+11. Which of the following can appear as 81-trytes or 90 characters? 
 
 a) address 
 
@@ -189,7 +189,7 @@ provides additional security so users remember to safeguard their
 80-tryte seed and share their 90 character address
 ```
 
-What should you use to keep track of addresses attached to a seed? 
+12. What should you use to keep track of addresses attached to a seed? 
 
 a) Index 
 
@@ -204,7 +204,7 @@ One seed many have many addresses.  Each address has a unique index starting at
 index 0 and incrementing by 1.  Addresses are processed in order of their index
 ```
 
-How many addresses can be generated for a seed? 
+13. How many addresses can be generated for a seed? 
 
 a) 1 
 
@@ -222,7 +222,7 @@ more processing time to compute the total seed balance.  You may want to use
 multiple seeds and select an optimum number of addresses per seed to meet your needs.
 ```
 
-Where is the balance stored? 
+14. Where is the balance stored? 
 
 a) Seed 
 
@@ -237,7 +237,7 @@ Iota tokens are stored in addresses.  A seed balance is the summary of all
 the associated addresses
 ```
 
-What happens when two transactions are sent simultaneously? 
+15. What happens when two transactions are sent simultaneously? 
 
 a)	Error message
 
@@ -254,7 +254,7 @@ The first TX processed by a node will confirm but the second TX remains pending.
 This prevents a double spend situation where the same tokens are used twice
 ```
 
-What does the signatureMessageFragment contain?
+16. What does the signatureMessageFragment contain?
 
 (a) User-defined message
 
@@ -338,7 +338,7 @@ signature.  Otherwise, the `signatureMessageFragment`
 is blank (shown as all 9's) or contains a user-defined message padded with 9's.
 ```
 
-Which of the following would generate the first address?
+17. Which of the following would generate the first address?
  
 (a) ```  .getNewAddress(hash, { index: 1, total: 1 })```
 
@@ -359,7 +359,7 @@ Option (d) is correct.  Choose index zero and a total of one address to be gener
 These parameters can be used to generate the first address for a given seed.
 ```
 
-The balance can be checked for one address
+18. The balance can be checked for one address
 
 (a) True
 
@@ -374,7 +374,7 @@ to get the total balance of all addresses in a seed, summarize the balances of a
 
 ### Thinking ahead
 
-What is a double spend? 
+19. What is a double spend? 
 
 a) Paying twice what the item is worth 
 
