@@ -4,8 +4,6 @@ This "hello world" example teaches how to get started by finding an IOTA Node.  
 
 ![Graphic of a distributed ledger](images/DL.png)
 
-Transactions stored in IRI on an IOTA Node
-
 
 ###  Step-by-step explanation of 1-hello-world.js
 
