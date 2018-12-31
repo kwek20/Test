@@ -17,12 +17,17 @@
 [IOTA Documentation](https://docs.iota.works/)
 
 #### Meet Your Instructors (alphabetical order)
+
 [Jake]()
+
 [Lewis]()
+
 [Nelson](https://blog.iota.org/welcome-s-d-nelson-to-the-iota-foundation-f4bda5f16cf)
 
 #### Course Support
+
 [Discord](https://www.reddit.com/r/Iota/comments/6rkfhq/iota_discord/)
+
 [Reddit](https://www.reddit.com/r/Iota/comments/6rkfhq/iota_discord/)
 
 ## Course Outline:  IOTA Fundamentals
