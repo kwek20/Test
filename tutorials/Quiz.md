@@ -169,9 +169,13 @@ Only use a deposit address once.  Otherwise, you make it easier for someone to d
 ### Additional study questions
 
 Which of the following can appear as 81-trytes or 90 characters? 
+
 a) address 
+
 b) bundle 
+
 c) hash 
+
 d) seed
 
 ```
@@ -181,8 +185,11 @@ The address is 81-trytes but a checksum is often added so it appears as a 90 cha
 ```
 
 What should you use to keep track of addresses attached to a seed? 
+
 a) Index 
+
 b) Address 
+
 c) Checksum 
 
 ```
@@ -192,9 +199,13 @@ One seed many have many addresses.  Each address has a unique index starting at 
 ```
 
 How many addresses can be generated for a seed? 
+
 a) 1 
+
 b) As many as you need 
+
 c) 2 
+
 d) 100
 
 ```
@@ -204,8 +215,11 @@ One seed may have multiple addresses.  Be mindful, having many addresses require
 ```
 
 Where is the balance stored? 
+
 a) Seed 
+
 b) Address 
+
 c) A and B
 
 ```
@@ -214,12 +228,14 @@ Answer:  b) Address
 Iota tokens are stored in addresses.  A seed balance is the summary of all the associated addresses
 ```
 
-
-
 What happens when two transactions are sent simultaneously? 
+
 a)	Error message
+
 b)	Account overdrawn message
+
 c)	First TX confirms but second remains pending
+
 d)	API fails
 
 ```
@@ -228,11 +244,14 @@ Answer:  c)	First TX confirms but second remains pending
 The first TX processed by a node will confirm but the second TX remains pending.  This prevents a double spend situation where the same tokens are used twice
 ```
 
-
 What is a double spend? 
+
 a) Paying twice what the item is worth 
+
 b) Paying two people 
+
 c) Attempting to spend funds twice 
+
 d) Using two distributed ledgers
 
 ```
@@ -244,8 +263,11 @@ Because the ledger is distributed, trustworthiness occurs through consensus.  Ho
 What does the signatureMessageFragment contain?
 
 (a) User-defined message
+
 (b) Signature
+
 (c) 9's
+
 (d) All of the above
 
 ```
@@ -324,8 +346,11 @@ If the TX requires a signature, then the `signatureMessageFragment` contains thi
 Which of the following would generate the first address?
  
 (a) ```  .getNewAddress(hash, { index: 1, total: 1 })```
+
 (b) ```  .getNewAddress(bundle, { seed: 1, address: 1 })```
+
 (c) ```  .getNewAddress(seed, { index: 1, total: 0 })```
+
 (d) ```  .getNewAddress(seed, { index: 0, total: 1 })```
 
 ```
@@ -340,6 +365,7 @@ Option (d) is correct.  Choose index zero and a total of one address to be gener
 The balance can be checked for one address
 
 (a) True
+
 (b) False
 
 ```
