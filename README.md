@@ -43,20 +43,20 @@ Foundation Training Courses
         IOTA Fundamentals
         Designed to teach the basics of sending transactions, running a node, and using hub
 
-        IOTA Advanced Topics for Administrators
+        IOTA Advanced Topics for Administrators (planning stage - help wanted)
         Designed to teach tips and techniques for using IOTA in production
 
-        IOTA Advanced Topics for Developers
+        IOTA Advanced Topics for Developers (planning stage - help wanted)
         Designed to teach tips and techniques for developing apps
 
-        IOTA Research Roadmap
+        IOTA Research Roadmap (planning stage - help wanted)
         Designed to invite students into the IOTA research community
 	
 
 IOTA Foundation Certifications
 
-	IOTA Administrators Certification
-      	IOTA Developers Certification
+	IOTA Administrators Certification (start studying now for exam in June 2019)
+      	IOTA Developers Certification (start studying now for exam in June 2019)
 
 ## Workshop 1:  Using Trinity
 
