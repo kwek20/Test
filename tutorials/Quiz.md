@@ -1,4 +1,4 @@
-## Self-check answers
+## Study questions with answers
 
 
 From [1-hello-world](1-hello-world.md), what does a node contain?
