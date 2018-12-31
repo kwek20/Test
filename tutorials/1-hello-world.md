@@ -69,6 +69,6 @@ There is a list of milestones.  Originally, milestones were issued periodically 
 What does a node contain?
 
 (a) Iota Tokens
-(b) One view of the distributed ledger
+(b) One view of the distributed ledger called, the Tangle
 (c) Neighbors
 ```
