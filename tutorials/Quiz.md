@@ -1,7 +1,7 @@
 ## Study questions with answers
 
 
-1. From [1-hello-world](1-hello-world.md), what does a node contain?
+### 1. From [1-hello-world](1-hello-world.md), what does a node contain?
 
   (a) Iota Tokens
 
@@ -13,9 +13,7 @@
 Answer:  (b) one view of the distributed ledger
 ```
 
-
-
-2. From [2.1-send-hello](2.1-send-hello), which of these is a valid tryte string?
+### 2. From [2.1-send-hello](2.1-send-hello), which of these is a valid tryte string?
   
   (a)	123456789
   
