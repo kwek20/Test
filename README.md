@@ -1,6 +1,6 @@
 # IOTA Fundamentals
 
-## Learning Objectives
+#### Learning Objectives
     Learn how to send transactions, run your own IOTA node, and use IOTA Hub
 
 #### Grading and Certificate of Completion
