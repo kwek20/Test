@@ -181,7 +181,9 @@ d) seed
 ```
 Answer:  a) address 
 
-The address is 81-trytes but a checksum is often added so it appears as a 90 character string.  Trinity wallet always uses the 90 character string so users can easily differentiate between the seed and address.  This provides additional security so users remember to safeguard their 80-tryte seed and share their 90 character address
+The address is 81-trytes but a checksum is often added so it appears as a 90 character string.  Trinity wallet always uses the 
+90 character string so users can easily differentiate between the seed and address.  This provides additional security so users 
+remember to safeguard their 80-tryte seed and share their 90 character address
 ```
 
 What should you use to keep track of addresses attached to a seed? 
@@ -195,7 +197,8 @@ c) Checksum
 ```
 Answer:  a) Index 
 
-One seed many have many addresses.  Each address has a unique index starting at index 0 and incrementing by 1.  Addresses are processed in order of their index
+One seed many have many addresses.  Each address has a unique index starting at index 0 and incrementing by 1.  Addresses are 
+processed in order of their index
 ```
 
 How many addresses can be generated for a seed? 
@@ -211,7 +214,8 @@ d) 100
 ```
 Answer:  b) As many as you need 
 
-One seed may have multiple addresses.  Be mindful, having many addresses requires more processing time to compute the total seed balance.  You may want to use multiple seeds and select an optimum number of addresses per seed to meet your needs.
+One seed may have multiple addresses.  Be mindful, having many addresses requires more processing time to compute the total seed 
+balance.  You may want to use multiple seeds and select an optimum number of addresses per seed to meet your needs.
 ```
 
 Where is the balance stored? 
@@ -241,7 +245,8 @@ d)	API fails
 ```
 Answer:  c)	First TX confirms but second remains pending
 
-The first TX processed by a node will confirm but the second TX remains pending.  This prevents a double spend situation where the same tokens are used twice
+The first TX processed by a node will confirm but the second TX remains pending.  This prevents a double spend situation where the 
+same tokens are used twice
 ```
 
 What is a double spend? 
@@ -257,7 +262,8 @@ d) Using two distributed ledgers
 ```
 Answer:  c) Attempting to spend funds twice 
 
-Because the ledger is distributed, trustworthiness occurs through consensus.  However, a user may purposefully or inadvertently attempt to spend the same funds twice.  This is called "double spend".  Iota uses special security to help prevent a double-spend.
+Because the ledger is distributed, trustworthiness occurs through consensus.  However, a user may purposefully or inadvertently
+attempt to spend the same funds twice.  This is called "double spend".  Iota uses special security to help prevent a double-spend.
 ```
 
 What does the signatureMessageFragment contain?
@@ -337,10 +343,10 @@ Example of a blank signatureMessageFragment:
 
 Example of signatureMessageFragment containing a message converted to trytes:
 
-signatureMessageFragment: 'SBYBCCKBEAFCCDFDZCGDWCCDDDEAXCGDEAHDCDDDFA999999999
-999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999',
+signatureMessageFragment: 'SBYBCCKBEAFCCDFDZCGDWCCDDDEAXCGDEAHDCDDDFA99999999999999999999999999999999999999999999999999999999999...',
 
-If the TX requires a signature, then the `signatureMessageFragment` contains this signature.  Otherwise, the `signatureMessageFragment` is blank (shown as all 9's) or contains a user-defined message padded with 9's.
+If the TX requires a signature, then the `signatureMessageFragment` contains this signature.  Otherwise, the `signatureMessageFragment`
+is blank (shown as all 9's) or contains a user-defined message padded with 9's.
 ```
 
 Which of the following would generate the first address?
@@ -356,10 +362,12 @@ Which of the following would generate the first address?
 ```
 Answer:  (d) ```  .getNewAddress(seed, { index: 0, total: 1 })```
 
-In order to generate an address, you need a seed.  So options (a) and (b) are incorrect.  (a) attempts to use a hash.  (b) attempts to use a bundle.  
+In order to generate an address, you need a seed.  So options (a) and (b) are incorrect.  (a) attempts to use a hash.  
+(b) attempts to use a bundle.  
 The parameters in option (c) are backwards.  It would not be useful to generate zero addresses.
 
-Option (d) is correct.  Choose index zero and a total of one address to be generated.  These parameters can be used to generate the first address for a given seed.
+Option (d) is correct.  Choose index zero and a total of one address to be generated.  These parameters can be used to generate
+the first address for a given seed.
 ```
 
 The balance can be checked for one address
@@ -371,6 +379,7 @@ The balance can be checked for one address
 ```
 (a) True
 
-Iota tokens are stored in addresses.  The balance can be checked for one or more addresses.  In order to get the total balance of all addresses in a seed, summarize the balances of all associated addresses
+Iota tokens are stored in addresses.  The balance can be checked for one or more addresses.  In order to get the total balance of 
+all addresses in a seed, summarize the balances of all associated addresses
 ```
 
