@@ -38,7 +38,7 @@
 
 [IOTA Foundation News](https://blog.iota.org/)
 
-Foundation Training Courses
+IOTA Foundation Training Courses
 
         IOTA Fundamentals
         Designed to teach the basics of sending transactions, running a node, and using hub
