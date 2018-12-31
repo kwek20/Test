@@ -1,6 +1,6 @@
 ## Workshop:  Introduction to IOTA Transactions
 
-This workshop teaches how to send and fetch various types of transactions stored in the IOTA Tangle.  Starting with "Hello World", each tutorial teaches the next level until you reach the final project where you build a simple app.  The self-check quizzes are also useful for preparing for the IOTA Adminstrator certification or the IOTA Developer certification.    
+This workshop teaches how to send and fetch various types of transactions stored in the IOTA Tangle.  Starting with "Hello World", each tutorial teaches the next level until you reach the final project where you build a High Mobility blueprint app using what you learned. 
 
 ### Getting started
 
@@ -42,7 +42,7 @@ This workshop teaches how to send and fetch various types of transactions stored
 
 ## Developing a simple app
 
-[Where's my Porsche?](https://github.com/NelsonPython/MAM/blob/master/knowledgebase/HM.md)
+[Where's my Porsche?](https://github.com/NelsonPython/MAM/blob/master/knowledgebase/HM.md) - collect navigation data from a Porsche emulator and send it in a secure MAM message to the Tangle
 
 ## Preparing for IOTA certifications
 
