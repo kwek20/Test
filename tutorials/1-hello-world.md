@@ -2,7 +2,7 @@
 
 This "hello world" example teaches how to get started by finding an IOTA Node.  The following graphic shows that Company A, Company B, and Alice have sent transactions to each other.  These transactions are stored in an IOTA Node.  An IOTA Node contains one view of the distributed ledger called, the Tangle.
 
-![Graphic of a distributed ledger](images/DL.png)
+![Graphic of a distributed ledger](images/dl.png)
 
 
 ###  Step-by-step explanation of 1-hello-world.js
