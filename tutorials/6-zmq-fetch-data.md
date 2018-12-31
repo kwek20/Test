@@ -1,6 +1,6 @@
 ## 6-zmq-listen.js - listening for transactions
 
-This tutorial shows how to use a tool called ZMQ to listen for transactions.  You can listen for all transactions or transactions for a specific address
+This tutorial shows how to use a tool, called ZMQ, to view transactions.  You can see all transactions or only transactions related to a specific address
 
 
 ## Step-by-step explanation of 6-zmq-listen.js
@@ -10,7 +10,7 @@ Import zeromq as "zmq".  Open the DevNet ZMQ port, 5556.
 ```
 
 ///////////////////////////////
-// Listen to live transactions
+// View live transactions
 ///////////////////////////////
 
 let zmq = require('zeromq')
@@ -20,7 +20,7 @@ let sock = zmq.socket('sub')
 sock.connect('tcp://zmq.devnet.iota.org:5556')
 ```
 
-Instructions are printed to the console for listening to all transactions or entering the command to listen to transactions for a specific address
+Instructions are printed to the console for viewing all transactions or choosing transactions related to a specific address
 
 ```
 // Check if there is no command line argument
@@ -43,7 +43,7 @@ if (!process.argv[2]) {
 }
 ```
 
-A switch statement is used for selecting which type of transaction to monitor.  Case "TX" displays transactions.  Case process.argv[2] displays the specific transaction requested from the CLI.
+A switch statement is used to select which type of transaction to monitor.  Case "TX" displays transactions.  Case process.argv[2] displays the specific transaction requested from the CLI.
 
 ```
 sock.on('message', msg => {
