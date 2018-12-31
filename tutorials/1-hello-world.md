@@ -1,6 +1,6 @@
 ## 1-hello-world.js
 
-This "hello world" example teaches how to get started by finding an IOTA Node.  An IOTA Node runs the [IOTA Reference Implementation (IRI)](#) software.  It contains one view of IOTA's distributed ledger, called the Tangle.
+This "hello world" example teaches how to get started by finding an IOTA Node.  An IOTA Node contains one view of IOTA's distributed ledger, called the Tangle.
 
 ![Graphic of a distributed ledger](dl.png)
 
