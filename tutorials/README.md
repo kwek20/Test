@@ -6,9 +6,9 @@ This workshop teaches how to send and fetch various types of transactions stored
 
 [Hello IOTA World!](1-hello-world.md)
 
-[Send TX](2.1-send-hello.md)
+[Send transaction](2.1-send-hello.md)
 
-[Fetch TX](2.2-fetch-hello.md)
+[Fetch transaction](2.2-fetch-hello.md)
 
 ## Transacting with iota tokens
 
