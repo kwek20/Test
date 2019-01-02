@@ -122,7 +122,7 @@ IOTA Foundation Certifications
 
 ## Workshop 3:  Running IOTA Node
 	
-	TBD
+[Installing your node](https://github.com/iotaledger/documentation-markdown/blob/feature/introduction-to-iota/getting-started/0.1/getting-started/running-your-own-iri-node.md)
 
 ## Workshop 4:  Running Hub
 
