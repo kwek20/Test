@@ -11,16 +11,20 @@ Four workshops teach these fundamental skills:
 </ul>
 
 #### Grading and Certificate of Completion
-    Pass a multiple choice exam and self-grade your lab results
+
+Pass a multiple choice exam and self-grade your lab results
 
 #### Course Timing
-    Four 4-hour workshops
+
+Four 4-hour workshops
 
 #### Labs
-    IOTA High-Mobility lab - develop a blueprint for autonomous automobiles
 
-    AstroPiOTA - collect and publish sensor data
-
+Workshop 2:
+<ul>
+	<li>IOTA High-Mobility lab - develop a blueprint for autonomous automobiles</li>
+	<li>AstroPiOTA - collect and publish sensor data</li>
+</ul>
 #### Course Resources
 
 [IOTA Documentation](https://docs.iota.works/)
