@@ -10,11 +10,11 @@ This course includes four 4-hour workshops teaching these fundamental skills:
 
 #### Grading and Certificate of Completion
 
-Pass a multiple choice exam and self-grade your lab results
+To achieve certification, pass a multiple choice exam and self-grade your lab results
 
 #### Course Resources
 
-[IOTA Documentation](https://docs.iota.works/) - new website to be published in March
+[IOTA Documentation](https://docs.iota.works/)
 
 #### Meet Your Instructors (alphabetical order)
 
