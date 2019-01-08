@@ -1,6 +1,6 @@
 # IOTA Fundamentals for Developers
 
-This course has four workshops teaching these fundamental skills:
+This course includes four 4-hour workshops teaching these fundamental skills:
 <ul>
 	<li>Using the Trinity Wallet to send and receive transactions</li>
 	<li>Using APIs to automate transactions and data messages</li>
@@ -12,29 +12,9 @@ This course has four workshops teaching these fundamental skills:
 
 Pass a multiple choice exam and self-grade your lab results
 
-#### Course Timing
-
-Four 4-hour workshops
-
-#### Labs
-
-Workshop 1: (TBD)
-
-Workshop 2:
-<ul>
-	<li>IOTA High-Mobility lab - develop a blueprint for autonomous automobiles</li>
-	<li>AstroPiOTA - collect and publish sensor data</li>
-</ul>
-
-Workshop 3: (TBD)
-
-Workshop 4: (TBD)
-
-
 #### Course Resources
 
 [IOTA Documentation](https://docs.iota.works/) - new website to be published in March
-
 
 #### Meet Your Instructors (alphabetical order)
 
@@ -50,7 +30,7 @@ Workshop 4: (TBD)
 
 [Reddit](https://www.reddit.com/r/Iota/comments/6rkfhq/iota_discord/)
 
-## Course Outline:  IOTA Fundamentals
+## Course Outline:  IOTA Fundamentals for Developers
 
 ### Introduction
 
@@ -134,9 +114,9 @@ IOTA Foundation Certifications
 
 #### Developing a simple app
 
-[Where's my Porsche?](https://github.com/NelsonPython/MAM/blob/master/knowledgebase/HM.md)
+Lab 1: [Where's my Porsche?](https://github.com/NelsonPython/MAM/blob/master/knowledgebase/HM.md)
 
-[AstroPiOTA](https://github.com/NelsonPython/AstroPiOTA)
+Lab 2: [AstroPiOTA](https://github.com/NelsonPython/AstroPiOTA)
 
 #### Preparing for IOTA certifications
 
