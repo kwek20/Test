@@ -1,7 +1,5 @@
 # IOTA Fundamentals for Developers
 
-#### Learning Objectives
-
 Four workshops teach these fundamental skills:
 <ul>
 	<li>Using the Trinity Wallet to send and receive transactions</li>
