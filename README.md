@@ -1,16 +1,27 @@
-# IOTA Fundamentals
+# IOTA Fundamentals for Developers
 
 #### Learning Objectives
-    Learn how to send transactions, run your own IOTA node, and use IOTA Hub
+
+Four workshops teach these fundamental skills:
+	
+	Using the Trinity Wallet to send and receive transactions
+	
+	Using APIs to automate transactions and data messages
+	
+	Running your own IOTA node
+	
+	Using IOTA Hub to manage addresses
 
 #### Grading and Certificate of Completion
     Pass a multiple choice exam and self-grade your lab results
 
 #### Course Timing
-	TBD
+    Four 4-hour workshops
 
 #### Labs
-	IOTA High-Mobility lab - develop a blueprint for autonomous automobiles
+    IOTA High-Mobility lab - develop a blueprint for autonomous automobiles
+
+    AstroPiOTA - collect and publish sensor data
 
 #### Course Resources
 
@@ -40,8 +51,8 @@
 
 IOTA Foundation Training Courses
 
-        IOTA Fundamentals
-        Designed to teach the basics of sending transactions, running a node, and using hub
+        IOTA Fundamentals for Developers
+        Teaches fundamental skills for developing distributed ledger systems using the IOTA toolkit
 
         IOTA Advanced Topics for Administrators (planning stage - help wanted)
         Designed to teach tips and techniques for using IOTA in production
