@@ -8,23 +8,21 @@ This course includes four 4-hour workshops teaching these fundamental skills:
 	<li>Using IOTA Hub to manage addresses</li>
 </ul>
 
-#### Grading and Certificate of Completion
+#### Certification
 
 To achieve certification, pass a multiple choice exam and self-grade your lab results
+
+#### Meet Your Instructors (alphabetical order)
+
+[Jake](https://uk.linkedin.com/in/jake-cahill)
+
+[Lewis](https://blog.iota.org/welcome-lewis-freiberg-to-iota-6e221a4e7ac3)
+
+[Nelson](https://blog.iota.org/welcome-s-d-nelson-to-the-iota-foundation-f4bda5f16cf)
 
 #### Course Resources
 
 [IOTA Documentation](https://docs.iota.works/)
-
-#### Meet Your Instructors (alphabetical order)
-
-[Jake]()
-
-[Lewis]()
-
-[Nelson](https://blog.iota.org/welcome-s-d-nelson-to-the-iota-foundation-f4bda5f16cf)
-
-#### Course Support
 
 [Discord](https://www.reddit.com/r/Iota/comments/6rkfhq/iota_discord/)
 
