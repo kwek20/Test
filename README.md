@@ -18,14 +18,23 @@ Four 4-hour workshops
 
 #### Labs
 
+Workshop 1: (TBD)
+
 Workshop 2:
 <ul>
 	<li>IOTA High-Mobility lab - develop a blueprint for autonomous automobiles</li>
 	<li>AstroPiOTA - collect and publish sensor data</li>
 </ul>
+
+Workshop 3: (TBD)
+
+Workshop 4: (TBD)
+
+
 #### Course Resources
 
-[IOTA Documentation](https://docs.iota.works/)
+[IOTA Documentation](https://docs.iota.works/) - new website to be published in March
+
 
 #### Meet Your Instructors (alphabetical order)
 
