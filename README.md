@@ -116,6 +116,8 @@ IOTA Foundation Certifications
 
 [Where's my Porsche?](https://github.com/NelsonPython/MAM/blob/master/knowledgebase/HM.md)
 
+[AstroPiOTA](https://github.com/NelsonPython/AstroPiOTA)
+
 #### Preparing for IOTA certifications
 
 [Study questions with answers](Quiz.md)
