@@ -3,14 +3,12 @@
 #### Learning Objectives
 
 Four workshops teach these fundamental skills:
-	
-	Using the Trinity Wallet to send and receive transactions
-	
-	Using APIs to automate transactions and data messages
-	
-	Running your own IOTA node
-	
-	Using IOTA Hub to manage addresses
+<ul>
+	<li>Using the Trinity Wallet to send and receive transactions</li>
+	<li>Using APIs to automate transactions and data messages</li>
+	<li>Running your own IOTA node</li>
+	<li>Using IOTA Hub to manage addresses</li>
+</ul>
 
 #### Grading and Certificate of Completion
     Pass a multiple choice exam and self-grade your lab results
