@@ -118,7 +118,7 @@ Lab 2: [AstroPiOTA](https://github.com/NelsonPython/AstroPiOTA)
 
 #### Preparing for IOTA certifications
 
-[Study questions with answers](Quiz.md)
+[Study questions with answers](tutorials/Quiz.md)
 
 ## Workshop 3:  Running IOTA Node
 	
