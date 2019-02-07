@@ -112,7 +112,7 @@ IOTA Foundation Certifications
 
 #### Developing a simple app
 
-Lab 1: [Where's my Porsche?](https://github.com/NelsonPython/MAM/blob/master/knowledgebase/HM.md)
+Lab 1: [Where's my EV?](https://github.com/NelsonPython/MAM/blob/master/knowledgebase/HM.md)
 
 Lab 2: [AstroPiOTA](https://github.com/NelsonPython/AstroPiOTA)
 
