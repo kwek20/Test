@@ -186,7 +186,7 @@ The address is 81-trytes but a checksum is often added so it appears as a
 90 character string.  Trinity wallet always uses the 90 character string
 so users can easily differentiate between the seed and address.  This
 provides additional security so users remember to safeguard their 
-80-tryte seed and share their 90 character address
+81-tryte seed and share their 90 character address
 ```
 
 ### 12. What should you use to keep track of addresses attached to a seed? 
